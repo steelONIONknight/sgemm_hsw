@@ -1,0 +1,3 @@
+*.o
+.vscode
+sgemm_l1d
